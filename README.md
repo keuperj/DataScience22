@@ -36,3 +36,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Labor
 * [NumPy Tutorial](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Introduction_to__Numpy.ipynb)
+* [Introduction to Surprise](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Surprise.ipynb)
+
+### Augaben
+* [Aufgabe Recommender System](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Assignment_2_recommender.ipynb)
