@@ -29,7 +29,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Aufgabe: Python Modul](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_1/Aufgabe_Python.ipynb) -> [Abgabe](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5869#section-1)
 #### Lösung
 * [Notebook](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_1/Solution/Solution_Aufgabe_Python.ipynb)
-* [Python Klasse](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_1/Solution/MySuperModule.py)
+* [Python Klasse](https://github.com/keuperj/DataScience22/blob/main/week_1/Solution/MySuperModule.py) (Download and upload to Colab)
 
 ## Woche 2
 
