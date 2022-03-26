@@ -56,10 +56,12 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Pandas: DataFrames](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_02_pandas_DataFrame.ipynb)
 * [Pandas: IO](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_03_pandas_IO.ipynb)
 * [Pandas: Missing Dtata](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_04_pandas_MissingData.ipynb)
+
 ### Labor
-* [Pandas: GroupBy](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_05_pandas_Group_by.ipynb)
-* [Pandas: Merge + Join](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_06_pandas_MergeandJoin.ipynb)
-* [Pandas: Reschape](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_07_pandas_reshape.ipynb)
+* [Labor Vortrag: GroupBy](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/GroupBy.ipynb)
+* [Labor Aufgabe: GroupBy](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_05_pandas_Group_by.ipynb)
+* [Labor Aufgabe: Merge + Join](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_06_pandas_MergeandJoin.ipynb)
+* [Labor Aufgabe: Reschape](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_07_pandas_reshape.ipynb)
 
 
 ### Augaben
