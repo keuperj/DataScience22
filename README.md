@@ -43,3 +43,25 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Augaben
 * [Aufgabe Recommender System](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Assignment_2_recommender.ipynb)
+
+
+## Woche 3
+
+### Vorlesung
+* [Basic Statistics](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Basic_Statistics.ipynb)
+* [Data Wrangling](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Data_Wrangling.ipynb)
+
+### Labor
+* [Pandas: Intro](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_01_pandas_Intro.ipynb)
+* [Pandas: DataFrames](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_02_pandas_DataFrame.ipynb)
+* [Pandas: IO](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_03_pandas_IO.ipynb)
+* [Pandas: Missing Dtata](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_04_pandas_MissingData.ipynb)
+* [Pandas: GroupBy](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_05_pandas_Group_by.ipynb)
+* [Pandas: Merge + Join](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_06_pandas_MergeandJoin.ipynb)
+* [Pandas: Reschape](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Lab_07_pandas_reshape.ipynb)
+
+
+### Augaben
+* [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_1.ipynb)
+* [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_1.ipynb)
+* [Assignment 3](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_1.ipynb)
