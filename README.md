@@ -43,7 +43,8 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Augaben
 * [Aufgabe Recommender System](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Assignment_2_recommender.ipynb)
-
+#### Lösung
+* [Notebook](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Assignment_2_solution.ipynb)
 
 ## Woche 3
 
