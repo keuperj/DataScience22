@@ -69,3 +69,15 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_1.ipynb)
 * [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_2.ipynb)
 * [Assignment 3](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_3.ipynb)
+
+## Woche 4
+### Vorlesung
+* [Statistics II](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Statistics_Part_II.ipynb)
+
+### Labor
+* [MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Lab_Matplotlib-Intro.ipynb)
+* [Scikit-Learn](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Scikit_Learn.ipynb)
+
+### Aufgaben
+* [Assignment MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_MatplotLib.ipynb)
+* [Assignment Bayes](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_Classification.ipynb)
