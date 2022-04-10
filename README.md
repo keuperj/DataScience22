@@ -81,3 +81,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 * [Assignment MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_MatplotLib.ipynb)
 * [Assignment Bayes](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_Classification.ipynb)
+
+## Woche 5
+### Vorlesung
+-
