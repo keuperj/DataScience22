@@ -84,4 +84,4 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ## Woche 5
 ### Vorlesung
--
+* keine interaktiven Inhalte
