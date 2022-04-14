@@ -79,8 +79,8 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Scikit-Learn](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Scikit_Learn.ipynb)
 
 ### Aufgaben
-* [Assignment MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_MatplotLib.ipynb)
-* [Assignment Bayes](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_Classification.ipynb)
+* [Assignment MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_MatplotLib.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_MatplotLib_solution.ipynb)
+* [Assignment Bayes](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_Classification.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_Classification_solution.ipynb)
 
 ## Woche 5
 ### Vorlesung
