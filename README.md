@@ -85,3 +85,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ## Woche 5
 ### Vorlesung
 * keine interaktiven Inhalte
+
+### Aufgaben
+* [Assignment Classifier](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_5/5_a_Classification.ipynb)
+* [Assignment Regression](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_5/5_b_Regression_NY_Taxy.ipynb)
