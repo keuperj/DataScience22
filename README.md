@@ -66,9 +66,9 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 
 ### Augaben
-* [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_1.ipynb)
-* [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_2.ipynb)
-* [Assignment 3](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_3.ipynb)
+* [Assignment 1](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_1.ipynb)-> [Lösung](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/solution_1.ipynb)
+* [Assignment 2](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_2.ipynb)-> [Lösung](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/solution_2.ipynb)
+* [Assignment 3](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/Assignment_3.ipynb)-> [Lösung](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_3/solution_3.ipynb)
 
 ## Woche 4
 ### Vorlesung
@@ -81,3 +81,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 * [Assignment MatPlotLib](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_MatplotLib.ipynb)
 * [Assignment Bayes](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_4/Assignment_Classification.ipynb)
+
+## Woche 5
+### Vorlesung
+* keine interaktiven Inhalte
