@@ -95,8 +95,8 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * keine interaktiven Inhalte
 
 ### Aufgaben
-* [Assignment Non-Linear Classifier](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_6/6_a_Non-Linear_Classification.ipynb)
-* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_6/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)
+* [Assignment Non-Linear Classifier](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_6/6_a_Non-Linear_Classification.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_6/6_a_Non-Linear_Classification_solution.ipynb)
+* [Assignment Automatic Hyper Paramter Seach](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_6/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_6/6_b_AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
 
 ## Woche 7
 ### Labor
