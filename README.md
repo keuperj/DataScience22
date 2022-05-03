@@ -111,3 +111,5 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [collaborative filtering with Keras](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_8/KERAS_collaborative_filtering_movielens.ipynb)
 * [Intro to TensorFlow Recommenders](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_8/TF_Rec_Example.ipynb)
 
+## Project
+* [First Look at the Data](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/project/data.ipynb)
