@@ -104,3 +104,10 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Aufgaben
 * [Assignment: Cifar10 with CNNs](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_7/Assignment_CNNs.ipynb)
+
+## Woche 8
+### Labor
+* [AutoEncoder with Keras](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_8/KERAS_autoencoder.ipynb)
+* [collaborative filtering with Keras](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_8/KERAS_collaborative_filtering_movielens.ipynb)
+* [Intro to TensorFlow Recommenders](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_8/TF_Rec_Example.ipynb)
+
