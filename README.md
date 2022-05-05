@@ -103,7 +103,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Introduction to Keras](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_7/keras_intro.ipynb)
 
 ### Aufgaben
-* [Assignment: Cifar10 with CNNs](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_7/Assignment_CNNs.ipynb)
+* [Assignment: Cifar10 with CNNs](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_7/Assignment_CNNs.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_7/Assignment_CNNs_solution.ipynb)
 
 ## Woche 8
 ### Labor
